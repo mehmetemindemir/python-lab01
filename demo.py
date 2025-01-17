@@ -7,4 +7,5 @@ print(a ,name)
 
 print(type(a))
 print(type(name))
+print(type(3.14))
 
